@@ -1,0 +1,1 @@
+﻿# ﻿School Management System  A quick little application put together to play around with the Java language.  Uses a JDBC connection to store details in a database schools to be able to see what pupils are in a particular grade and which Teacher is currently assigned to each one.
